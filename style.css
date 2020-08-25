@@ -54,6 +54,7 @@ body{
 	display: block;
 	background: #fff;
 	margin: 0 15px;
+	top:-30px;
 	border-radius: 50%;
 }
 .eyes .eye::before{
